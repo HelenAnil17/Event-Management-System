@@ -99,9 +99,3 @@ input[type=submit]{
     align-items: center;
     text-align: center;
 }
-
-form {
-    max-width: 500px; /* Adjust as needed */
-    margin: 0 auto;   /* Center-align the form */
-  }
-  
